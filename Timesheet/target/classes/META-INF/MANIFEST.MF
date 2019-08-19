@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: NoLimiT
+Build-Jdk: 12.0.1
+Implementation-Title: Spring Boot Spring Data JPA MYSQL
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-data-jpa-mysql
+Created-By: Maven Integration for Eclipse
+
